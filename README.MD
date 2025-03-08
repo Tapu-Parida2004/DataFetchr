@@ -55,11 +55,13 @@ Navigate to the project directory:
 
 bash
 cd DataFetchr
+
 **2. Install Dependencies**
 Install all the required dependencies by running:
 
 bash
 npm install
+
 **3. Set Up Tailwind CSS**
 To use Tailwind CSS for styling, follow these steps:
 
