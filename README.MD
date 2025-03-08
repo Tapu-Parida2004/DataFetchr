@@ -95,20 +95,20 @@ npx react-native run-ios
 
 # Project Structure
 
-DataFetchr/
-├── assets/ # Images and other static assets
-├── components/ # Reusable components
-├── screens/ # Application screens
-│ ├── LoginScreen.js # Login screen
-│ ├── HomeScreen.js # Home screen
-│ └── DetailsScreen.js # Details screen
-├── navigation/ # React Navigation setup
-├── utils/ # Utility functions (e.g., API calls)
-├── App.js # Main application file
-├── tailwind.config.js # Tailwind CSS configuration
-├── package.json # Project dependencies
-└── README.md # Project documentation
-└── screenshots # screenshots 
+- **DataFetchr/**
+- **├── assets/ # Images and other static assets**
+- **├── components/ # Reusable components**
+- **├── screens/ # Application screens**
+- **│ ├── LoginScreen.js # Login screen**
+- **│ ├── HomeScreen.js # Home screen**
+- **│ └── DetailsScreen.js # Details screen**
+- **├── navigation/ # React Navigation setup**
+- **├── utils/ # Utility functions (e.g., API calls)**
+- **├── App.js # Main application file**
+- **├── tailwind.config.js # Tailwind CSS configuration**
+- **├── package.json # Project dependencies**
+- **└── README.md # Project documentation**
+- **└── screenshots # screenshots** 
 
 ## API Integration
 
