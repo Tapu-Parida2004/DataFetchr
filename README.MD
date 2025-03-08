@@ -46,7 +46,7 @@ Before running the project, ensure you have the following installed:
 ## Installation
 Follow these steps to set up and run the project locally:
 
-1. Clone the Repository
+**1. Clone the Repository**
 Clone the repository to your local machine using the following command:
 
 bash
@@ -55,12 +55,12 @@ Navigate to the project directory:
 
 bash
 cd DataFetchr
-2. Install Dependencies
+**2. Install Dependencies**
 Install all the required dependencies by running:
 
 bash
 npm install
-3. Set Up Tailwind CSS
+**3. Set Up Tailwind CSS**
 To use Tailwind CSS for styling, follow these steps:
 
 Install the required Tailwind CSS package for React Native:
@@ -69,7 +69,7 @@ bash
 npm install tailwind-react-native-classnames
 Configure Tailwind CSS by creating a tailwind.config.js file and importing it into your project. Refer to the Tailwind CSS documentation for detailed setup instructions.
 
-4. Run the App
+**4. Run the App**
 For Expo
 Start the development server using Expo:
 
